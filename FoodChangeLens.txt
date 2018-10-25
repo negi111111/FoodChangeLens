@@ -1,1 +1,1 @@
-@inproceedings{FoodChangeLens2018, title={FoodChangeLens:CNN-based Food Transformation on HoloLens}, author={Shu Naritomi, Ryosuke Tanno, Takumi Ege and Keiji Yanai}, booktitle={***, year={2018} }
+@inproceedings{FoodChangeLens2018, title={FoodChangeLens:CNN-based Food Transformation on HoloLens}, author={Shu Naritomi, Ryosuke Tanno, Takumi Ege and Keiji Yanai}, booktitle={In Proc. of International Workshop on Interface and Experience Design with AI for VR/AR (DAIVAR), year={2018} }
